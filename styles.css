@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	
+	display: flex;
 }
 
 .item item-1{
